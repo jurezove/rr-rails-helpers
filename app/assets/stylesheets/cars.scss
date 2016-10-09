@@ -1,0 +1,16 @@
+// Place all the styles related to the Cars controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+div.car {
+  margin: 20px 10px;
+
+  img {
+    margin-top: 10px;
+    max-width: 200px;
+  }
+
+  span.description {
+    display: block;
+  }
+}
